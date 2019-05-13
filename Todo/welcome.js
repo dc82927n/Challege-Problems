@@ -55,4 +55,4 @@ let welcome = function(langague){
 	return database[langague] || "hello"
 }
 
-console.log(welcome())
+console.log(welcome("polish"))
