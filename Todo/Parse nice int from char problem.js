@@ -12,7 +12,7 @@ Assume test input string always valid and may look like
 function getAge(inputString){
 // return correct age (int). Happy coding :) 
 
-	if (inputString.charAt(0) === ["0","1","2","3"]){
+	if (inputString.charAt(0) === ){
 		return true
 	} else {
 		return false 
