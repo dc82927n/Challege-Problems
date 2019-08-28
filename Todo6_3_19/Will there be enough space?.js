@@ -24,7 +24,20 @@ enough(100, 60, 50);
 
 function enough(cap, on, wait) {
   // your code here
-  if(cap === )
+  
+  if (cap === on){
+  	console.log("0 , He can fit all " + on + "passenger")
+  } else if (on + wait > cap )
+  // cap will be maxium capacity 
+  // on is how many currently on the bus 
+  // wait is how many that want to get on the bus 
 
 }
+
+
+
+
+
+
+
 

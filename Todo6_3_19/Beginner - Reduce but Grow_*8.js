@@ -9,10 +9,10 @@ return the result of multiplying the values together in order. Example:
 */
 
 // need to loop through the array and each element
-// i * i then add to count, will get sum . 
+// total * i then add to count, will get sum . 
 
 function grow(x){
-	let count = 0; // 
+	
 	let total = 1;
 	for (let i = 0; i < x.length; i++){
 		//count = x[i] //  
