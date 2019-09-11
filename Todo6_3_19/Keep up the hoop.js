@@ -11,9 +11,9 @@ now move on to tricks".
 */
 
 function hoopCount (n) {
-  // 
+  // //
   
-  if(n <= 10){
+  if(n >= 10){
   	console.log( "Great, now move on to tricks")
   } else {
   	console.log("Keep at it until you get it")
