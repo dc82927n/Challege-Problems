@@ -58,7 +58,15 @@ The number of people who sit strictly behind you and in your column or to the le
 function seatsInTheater(nCols, nRows, col, row) {
   //coding and coding..
   
-  
+
 }
+
+
+
+
+
+
+
+
 
 
