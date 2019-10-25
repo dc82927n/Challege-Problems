@@ -24,3 +24,12 @@ var findWords = function (words) {
 };
 
 findWords(["Hello", "Alaska", "Dad", "Peace"]);
+
+// 
+
+
+
+
+
+
+
